@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9194466600239931058
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2745666325232091381, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0b3bc486a4e196d419262d1a7ae0a4b6, type: 2}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4821600041420379286, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5628740450900012293, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4138223980208024357, guid: 5100b75572e484e458e4340e2afe9454, type: 3}
+    - target: {fileID: 5628740450900012293, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5981065288691587666, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: m_Name
+      value: '[Fruit] Kiwi'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8065974170906520699, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: Data
+      value: 
+      objectReference: {fileID: 11400000, guid: f7ceb19d23fe5944a922d6fb040034f5, type: 2}
+    - target: {fileID: 8065974170906520699, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
+      propertyPath: Score
+      value: 50
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8942f96c12f1bd545b14b6b8219cb376, type: 3}
