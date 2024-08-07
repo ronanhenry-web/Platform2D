@@ -1,6 +1,6 @@
 <h1 align="left">Projet Unity 2D / Découvertes des animations, des mouvements, des gameObjects, des scenes, des scripts et l'HUD</h1>
 
-<h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre les étapes suivantes :  
+<h3 align="left">Installation : pour Run l'application suivre l'étape suivante :  
 
   - créer un projet Unity puis importer mes fichiers GitHub
 </h3>
