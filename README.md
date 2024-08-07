@@ -2,7 +2,7 @@
 
 <h3 align="left">Installation : pour Run l'application suivre l'étape suivante :  
 
-  - créer un projet Unity puis importer mes fichiers GitHub
+  - créer un projet Unity 2D puis importer mes fichiers GitHub
 </h3>
 
 <h3 align="left">Langage :</h3>
