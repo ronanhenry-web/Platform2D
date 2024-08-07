@@ -1,3 +1,11 @@
-Projet Unity 2D : découvrir les animations, les mouvements, les gameObjects, les scenes, les scripts et l'HUD
+<h1 align="left">Projet Unity 2D / Découvertes des animations, des mouvements, des gameObjects, des scenes, des scripts et l'HUD</h1>
 
-Créer un projet Unity puis importer mes fichiers GitHub
+<h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre les étapes suivantes :  
+
+  - créer un projet Unity puis importer mes fichiers GitHub
+</h3>
+
+<h3 align="left">Langage :</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+</p>
