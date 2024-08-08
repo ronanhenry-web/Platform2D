@@ -1,4 +1,4 @@
-# Projet Unity 2D
+# Projet Platform 2D
 
 Découvertes des animations, des mouvements, des gameObjects, des scenes, des scripts et l'HUD
 
